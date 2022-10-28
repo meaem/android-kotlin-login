@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498764016920",
+    "project_id": "wander-abdelaal",
+    "storage_bucket": "wander-abdelaal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498764016920:android:ec1fc04823c7d7f809026d",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498764016920-dgu9t0uad18d7in078uj7fuvsrtsgqhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "d37666898c3c60e0592e9393cb10c873f1f541a9"
+          }
+        },
+        {
+          "client_id": "498764016920-g0912h4arhg2ier47maadq8phcjg65es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTfK5HLRbZ3khmWU2D3QEAlgjFUw-5P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498764016920-g0912h4arhg2ier47maadq8phcjg65es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
