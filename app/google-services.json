@@ -7,7 +7,47 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:498764016920:android:ec1fc04823c7d7f809026d",
+        "mobilesdk_app_id": "1:498764016920:android:9120ddab9c8fa9cf09026d",
+        "android_client_info": {
+          "package_name": "com.aabdelaal.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498764016920-5tofq723g6ehc0rp9uqqiekfhp5ib498.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aabdelaal.simplelogin",
+            "certificate_hash": "d37666898c3c60e0592e9393cb10c873f1f541a9"
+          }
+        },
+        {
+          "client_id": "498764016920-g0912h4arhg2ier47maadq8phcjg65es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMoC58-THjqKdYFt1ZSTWkC_KYFfaYzs0"
+        },
+        {
+          "current_key": "AIzaSyBvTfK5HLRbZ3khmWU2D3QEAlgjFUw-5P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498764016920-g0912h4arhg2ier47maadq8phcjg65es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498764016920:android:d009db402b029de509026d",
         "android_client_info": {
           "package_name": "com.example.android.firebaseui_login_sample"
         }
@@ -27,6 +67,41 @@
         }
       ],
       "api_key": [
+        {
+          "current_key": "AIzaSyBMoC58-THjqKdYFt1ZSTWkC_KYFfaYzs0"
+        },
+        {
+          "current_key": "AIzaSyBvTfK5HLRbZ3khmWU2D3QEAlgjFUw-5P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498764016920-g0912h4arhg2ier47maadq8phcjg65es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498764016920:android:459a08fa6963c54a09026d",
+        "android_client_info": {
+          "package_name": "com.udacity.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498764016920-g0912h4arhg2ier47maadq8phcjg65es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMoC58-THjqKdYFt1ZSTWkC_KYFfaYzs0"
+        },
         {
           "current_key": "AIzaSyBvTfK5HLRbZ3khmWU2D3QEAlgjFUw-5P4"
         }
